@@ -1,4 +1,4 @@
-# Remove pricer ranges on collection pages
+# Remove price ranges on collection pages
 This quick guide shows how to remove price ranges that are shown on the collection pages of your Shopify theme.
 This code is intended for use with all themes provided by We are Underground which at present include:
 
